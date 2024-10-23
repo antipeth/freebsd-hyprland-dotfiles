@@ -1,12 +1,12 @@
 /*
 
-!./alacritty/
-!./fastfetch/
-!./hypr/
-!./kitty/
-!./nushell/env.nu
-!./nushell/config.nu
-!./rofi/
-!./waybar/
-!./wlogout/
-!./starship.toml
+!/alacritty/
+!/fastfetch/
+!/hypr/
+!/kitty/
+!/nushell/env.nu
+!/nushell/config.nu
+!/rofi/
+!/waybar/
+!/wlogout/
+!/starship.toml
