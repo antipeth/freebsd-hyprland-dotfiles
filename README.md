@@ -19,9 +19,11 @@ Assuming Hyprland has been successfully installed on FreeBSD.
 To use these dotfiles effectively, ensure you have the following packages installed:
 
 ```sh
-pkg install nushell alacritty starship \
+pkg install fastfetch nushell alacritty starship \
 hyprpaper waybar rofi-wayland yazi \
 wlogout grim slurp swappy pavucontrol
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
 ```
 
 ## End
