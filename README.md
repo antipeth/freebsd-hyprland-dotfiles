@@ -20,7 +20,7 @@ To use these dotfiles effectively, ensure you have the following packages instal
 
 ```sh
 pkg install nushell alacritty starship \
-hyprland waybar rofi-wayland yazi \
+hyprpaper waybar rofi-wayland yazi \
 wlogout grim slurp swappy pavucontrol
 ```
 
